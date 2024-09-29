@@ -25,5 +25,7 @@ How2Cook은 사용자들이 요리 레시피를 검색하고, 공유할 수 있�
 - ERD Cloud
 
 ### 프로젝트 구조
+
 **ERD**
+
 ![Recipe](https://github.com/user-attachments/assets/11534001-4aa7-4bbf-9f0c-85dc68423b23)
